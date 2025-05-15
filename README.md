@@ -1,2 +1,2 @@
-# TripAdvisor_Review
-A shiny app for sentiment analysis of TripAdvisor restaurant reviews
+# Earthquake
+Earthquake from 2021-2025 analysis
